@@ -55,7 +55,6 @@ The whole process is gathered in the jupyter notebook found in this directory. D
 
 Most of the results can be found in the notebook. Additional information and formatted results can be found in my Medium post [here](https://medium.com/@felix_kinzius/music-you-havent-even-thought-of-sparkify-111a85419c92).
 
-A brief summary of the results is that we can predict churn somehow well using a Gradient Boost Tree Classifier. As churn is not very likely, so the dataset is a bit imbalanced. Nonetheless, using thought-out Feature Engineering in combination with the GBT Model leads to somewhat reliable results.
 
 ## Acknowledgements
 
