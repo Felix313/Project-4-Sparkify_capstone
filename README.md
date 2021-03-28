@@ -55,6 +55,7 @@ The whole process is gathered in the jupyter notebook found in this directory. D
 
 Most of the results can be found in the notebook. Additional information and formatted results can be found in my Medium post [here](https://medium.com/@felix_kinzius/music-you-havent-even-thought-of-sparkify-111a85419c92).
 
+A final run version of the jupyter notebook can also be found in the "Sparkify.html" file.
 
 ## Acknowledgements
 
